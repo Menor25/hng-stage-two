@@ -4,7 +4,7 @@
 
 This API allows you to manage person (user). It provides CRUD (Create, Read, Update, Delete) operations for user.
 
-Base URL: `http://your-api-domain/api`
+Base URL: `https://hng-stage-two-ujs5.onrender.com/api`
 
 ## Endpoints
 
