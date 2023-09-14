@@ -21,10 +21,14 @@ Base URL: `http://your-api-domain/api`
 
 - **Response Format:**
 {
-    "id": 1,
-    "name": "Full Name",
-    "created_at": "2023-09-13T12:00:00Z",
-    "updated_at": "2023-09-13T12:00:00Z"
+    "data": [
+        {
+            "id": 1,
+            "name": "Full Name",
+            "created_at": "2023-09-12T20:47:09.000000Z",
+            "updated_at": "2023-09-12T20:52:49.000000Z"
+        }
+    ]
 }
 
 ### Get a User
